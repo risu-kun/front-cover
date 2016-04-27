@@ -5,6 +5,7 @@ url: "https://risu-kun.github.io"
 
 
 # Delete the lines you don't need
+
 # about 7 elements are recomended
 github_username:  risu-kun
 twitter_username: risuikari
@@ -15,7 +16,7 @@ email: risse.rigdon@gmail.com
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
-# You can link to your GitHub image. That way it will get updated 
+# You can link to your GitHub image. That way it will get updated
 # automatically whenever you change your GitHub profile picture
 avatar_img_path: "https://avatars1.githubusercontent.com/u/3732709"
 
@@ -23,6 +24,12 @@ avatar_img_path: "https://avatars1.githubusercontent.com/u/3732709"
 front_img: yes
 front_img_path: "imgs/starfield.jpg"
 #front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
 
 # Build settings
 markdown: kramdown
