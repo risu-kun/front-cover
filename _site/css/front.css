@@ -38,9 +38,10 @@ h3 {
     font-weight: thin;
 }
 .content {
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 70px;
     padding-top: 100px;
     padding-bottom: 40px;
-    background-color: rgba(0, 0, 0, 0.5);
     text-align: center;
 }
 ul {
